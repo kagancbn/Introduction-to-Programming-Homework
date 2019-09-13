@@ -1,0 +1,49 @@
+()-O	|G|	|B|	|M|	|A|	|Y|	|Av|	|P|	Uzun Ýsimler
+(A)-1	-1-	-0-	-0-	-3-	-0-	3	10	ROMANYA-
+(B)-1	-0-	-0-	-1-	-0-	-3-	-3	-5	URFA-
+(C)-1	-0-	-1-	-0-	-0-	-0-	0	5	GAZIANTEP-
+(D)-1	-0-	-1-	-0-	-0-	-0-	0	5	BURSA-
+(E)-1	-0-	-0-	-1-	-1-	-3-	-2	-5	MARAS-
+(F)-1	-1-	-0-	-0-	-3-	-1-	2	10	MERSIN-
+(G)-0	-0-	-0-	-0-	-0-	-0-	0	0	TRABZON-
+(H)-0	-0-	-0-	-0-	-0-	-0-	0	0	KONYA-
+-----------KUCUK HARF----------
+()-O	|G|	|B|	|M|	|A|	|Y|	|Av|	|P|	Uzun Ýsimler
+(A)-1	-1-	-0-	-0-	-3-	-0-	3	10	romanya-
+(B)-1	-0-	-0-	-1-	-0-	-3-	-3	-5	urfa-
+(C)-1	-0-	-1-	-0-	-0-	-0-	0	5	gaziantep-
+(D)-1	-0-	-1-	-0-	-0-	-0-	0	5	bursa-
+(E)-1	-0-	-0-	-1-	-1-	-3-	-2	-5	maras-
+(F)-1	-1-	-0-	-0-	-3-	-1-	2	10	mersin-
+(G)-0	-0-	-0-	-0-	-0-	-0-	0	0	trabzon-
+(H)-0	-0-	-0-	-0-	-0-	-0-	0	0	konya-
+-----------BUYUK HARF----------
+()-O	|G|	|B|	|M|	|A|	|Y|	|Av|	|P|	Uzun Ýsimler
+(A)-1	-1-	-0-	-0-	-3-	-0-	3	10	ROMANYA-
+(B)-1	-0-	-0-	-1-	-0-	-3-	-3	-5	URFA-
+(C)-1	-0-	-1-	-0-	-0-	-0-	0	5	GAZIANTEP-
+(D)-1	-0-	-1-	-0-	-0-	-0-	0	5	BURSA-
+(E)-1	-0-	-0-	-1-	-1-	-3-	-2	-5	MARAS-
+(F)-1	-1-	-0-	-0-	-3-	-1-	2	10	MERSIN-
+(G)-0	-0-	-0-	-0-	-0-	-0-	0	0	TRABZON-
+(H)-0	-0-	-0-	-0-	-0-	-0-	0	0	KONYA-
+-----------ISIM SIRALI----------
+H     O     G     B     M     AG    YG    Averaj Puan  Uzun Ýsim
+D     1     0     1     0     0     0     0      5      BURSA
+C     1     0     1     0     0     0     0      5      GAZIANTEP
+H     0     0     0     0     0     0     0      0      KONYA
+E     1     0     0     1     1     3     -2      -5      MARAS
+F     1     1     0     0     3     1     2      10      MERSIN
+A     1     1     0     0     3     0     3      10      ROMANYA
+G     0     0     0     0     0     0     0      0      TRABZON
+B     1     0     0     1     0     3     -3      -5      URFA
+-----------PUAN SIRALI----------
+H     O     G     B     M     AG    YG    Averaj Puan
+A     1     1     0     0     3     0     3      10       ROMANYA
+F     1     1     0     0     3     1     2      10       MERSIN
+C     1     0     1     0     0     0     0      5       GAZIANTEP
+D     1     0     1     0     0     0     0      5       BURSA
+G     0     0     0     0     0     0     0      0       TRABZON
+H     0     0     0     0     0     0     0      0       KONYA
+E     1     0     0     1     1     3     -2      -5       MARAS
+B     1     0     0     1     0     3     -3      -5       URFA
