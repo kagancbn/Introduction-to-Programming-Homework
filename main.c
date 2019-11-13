@@ -1,12 +1,10 @@
-/*Hüseyin Furkan MACAN 383179
-383179@ogr.ktu.edu.tr
+/*
     -Struct Oluşturulması ve Kullanımı
     -Harfe Göre Sıralama
     -Puana Göre Sıralama
     -Menü Tasarrımı ve Kodun Birleştirilmesi
     -Daha Önce Oynanan Maç Varsa Uyarı Verilmesi,Tabloya İşlenmemesi
-Oğuz Kağan ÇOBAN 383195
-kagancoban92@gmail.com
+
     -Dosyadan Maçları Alma,Tabloyu Güncelleme ve Dosyaya Yazma
     -String İşlemleri
     -Takım İsmine Göre Sıralama
